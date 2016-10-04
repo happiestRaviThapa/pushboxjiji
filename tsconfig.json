@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outFile": "bin/App.js",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "lib/p2.d.ts",
+    "lib/phaser.d.ts",
+    "lib/pixi.d.ts",
+    "lib/p2.d.ts"
+  ]
+}
